@@ -1,5 +1,4 @@
-# Sampling Strategies in Ordinal Regression for Surrogate Assisted Evolutionary 
-Optimization
+# Sampling Strategies in Ordinal Regression for Surrogate Assisted Evolutionary Optimization 
 
 In evolutionary optimization surrogate models are commonly used when the evaluation of a fitness function is computationally expensive. Here the fitness of individuals are indirectly estimated by modeling their rank with respect to the current population by use of ordinal regression. This paper focuses on how to validate the goodness of fit for surrogate models during search and introduces a novel validation/updating policy for surrogate models, and is illustrated on classical numerical optimization functions for evolutionary computation. 
 
