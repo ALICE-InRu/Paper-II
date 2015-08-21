@@ -7,21 +7,15 @@ The study shows that for validation accuracy it is sufficient for the approximat
 ## Citation
 ```
 @INPROCEEDINGS{InRu11b,
-  author={Ingimundardottir, H. and Runarsson, T.P.},
-  booktitle={Intelligent Systems Design and Applications (ISDA), 2011 11th 
-  International Conference on},
-  title={Sampling strategies in ordinal regression for surrogate assisted 
-  evolutionary optimization},
-  year={2011},
-  month={Nov},
-  pages={1158-1163},
-  keywords={approximation theory;evolutionary computation;regression 
-  analysis;approximate ranking;evolutionary computation;optimization;ordinal 
-  regression analysis;sampling strategy;surrogate models;true 
-  ranking;Accuracy;Approximation methods;Computational modeling;Intelligent 
-  systems;Numerical models;Optimization;Training;evolutionary 
-  optimization;ordinal regression;sampling;surrogate models},
-  doi={10.1109/ISDA.2011.6121815},
-  ISSN={2164-7143},
+  author    = {Ingimundardottir, H. and Runarsson, T.P.},
+  booktitle = {Intelligent Systems Design and Applications (ISDA), 2011 
+              11th International Conference on},
+  title     = {Sampling strategies in ordinal regression for surrogate assisted 
+              evolutionary optimization},
+  year      = {2011},
+  month     = {Nov},
+  pages     = {1158-1163},
+  doi       = {10.1109/ISDA.2011.6121815},
+  ISSN      = {2164-7143},
 }
 ```
